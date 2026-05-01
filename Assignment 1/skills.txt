@@ -1,8 +1,4 @@
-My skills and interests:
-- Microsoft Office
-- Problem solving
-- Communication
-- Programming
-- Teamwork
-- Git basics
-- Time management
+# Git & GitHub Homework
+
+Student Name: Your Name
+Course: Foundation Bootcamp – Programming Track
