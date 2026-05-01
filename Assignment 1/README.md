@@ -1,4 +1,3 @@
 # Git & GitHub Homework
 
-Student Name: Sarah
-Course: Foundation Bootcamp – Programming Track
+This file is for practicing Git and branching.
