@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(149, 160, 182);
+    margin: 20px;
+    padding: 20px;
+}
+
+#main-title{
+    color: rgb(2, 2, 24);
+}
+
+.text-style{
+    color: rgb(3, 13, 19);
+}
+
+.nav-links{
+    color: rgb(0, 0, 4);
+}
